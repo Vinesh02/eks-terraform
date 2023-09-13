@@ -32,3 +32,4 @@ Need to download Kubectl for accessing Eks Cluster for download kubectl follw be
     it will create $/home/user/.kube/config file.
 
 5. After completion all this proccess run this command for checking we acceesing eks cluster or not.
+   $ kubectl get ns
