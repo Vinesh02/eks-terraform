@@ -4,7 +4,7 @@ This repo is a companion repo to the [Provision an EKS Cluster tutorial](https:/
 Terraform configuration files to provision an EKS cluster on AWS.
 
 Create eks cluster using terraform
-after terraform apply.
+After terraform apply command eks cluster is ready to access.
 Need to download Kubectl for accessing Eks Cluster for download kubectl follw below commands.
 
 1. configure aws cli 
